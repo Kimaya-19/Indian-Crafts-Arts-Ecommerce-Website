@@ -55,7 +55,6 @@
                <div class="container">
                 <center>
                    <p>Copyright &copy CRAFT WINGS Store. All Rights Reserved.</p>
-                   <p>This website is developed by Akshay pk</p>
                </center>
                </div>
            </footer>
